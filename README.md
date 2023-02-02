@@ -6,6 +6,7 @@
 <a href="https://twitter.com/_PrincewillOgbo"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
 </div>
 
+<br/>
 
 - 🔭 I’m currently working on a **Food API**
 - 🌱 I’m currently learning **React js**
@@ -15,3 +16,20 @@
 - 📫 How to reach me: **princewillbeluonwuogbo1@gmail.com**
 - ⚡ Fun fact: **I Love the game of Chess**
 -->
+
+<br />
+
+<h2 align="center"> 💼 Languages and Tools</h2>
+<img src="https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/-ReactJS-grey?&style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img scr="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/-css3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/-VSCode-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white" /> 
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/PhotoShop-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
+
+<br />
+<br />
