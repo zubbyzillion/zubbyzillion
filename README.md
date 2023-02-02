@@ -20,7 +20,7 @@
 <br />
 
 <h2 align="center"> 💼 Languages and Tools</h2>
-<figure style="display: inline-block;">
+<figure display= "inline-block">
 <img src="https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/-ReactJS-grey?&style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img scr="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
