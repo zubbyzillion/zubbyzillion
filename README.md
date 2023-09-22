@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I am Beluonwu-Ogbo Nzubechukwu .P</h1>
-<h3 align="center">An Enthusiastic Front-End Developer</h3>
+<h1 align="center" color="#111111">Hi 👋, I am Beluonwu-Ogbo Nzubechukwu .P</h1>
+<h3 align="center" color="#111111">An Enthusiastic Front-End Developer</h3>
 
 <div align="center">
 <a href="https://www.linkedin.com/in/nzubechukwu-beluonwu-ogbo-p-4894b21a5/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn" /></a>&nbsp;
@@ -19,7 +19,7 @@
 
 <br />
 
-<h2 align="center"> 💼 Languages and Tools</h2>
+<h2 align="center" color="#111111"> 💼 Languages and Tools</h2>
 <div align="center">
 <img src="https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/-ReactJS-grey?&style=for-the-badge&logo=react&logoColor=61DAFB" />
